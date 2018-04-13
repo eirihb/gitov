@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-	print("Hello world\n");
-	print("... and Mars\n");
+	printf("Hello world\n");
+	printf("... and Mars\n");
 
 	if(1>0){
 		return 1;
